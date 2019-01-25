@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body{
+    color:red;
+    background-color: #ffb123;
+}
+.alo{
+    color: black;
+    border: 2px solid blue;
+}
+#oleg{
+    background-color: purple;
+}
+div p{
+    background-color: grey;
+}
+div ~ p{
+    color:blue;
+}
+:root{
+    font-family: 'Open Sans', sans-serif;
+}
